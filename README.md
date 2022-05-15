@@ -1,6 +1,6 @@
 # todo2
 
-A new Flutter project.
+Daily Survey app connected with Firebase.
 
 ## Getting Started
 
