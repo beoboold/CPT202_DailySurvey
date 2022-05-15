@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652233659084",
+    "project_id": "daily-survey-98da9",
+    "storage_bucket": "daily-survey-98da9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652233659084:android:53a0a4c389b71592a9a869",
+        "android_client_info": {
+          "package_name": "com.example.todo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652233659084-l7v44lmnm8tljflsholo416hr84vusu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPJiloUmFSwpanHYraJRhHeDJgrejCdLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652233659084-l7v44lmnm8tljflsholo416hr84vusu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
